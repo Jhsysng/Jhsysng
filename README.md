@@ -96,17 +96,6 @@
 ### 🎯 Core Interests
 <div align="center">
 
-```mermaid
-graph LR
-    Core_Backend-->SpringFramework
-    Core_Backend-->JPA_QueryDSL
-    Core_Backend-->SystemDesign
-    
-    Core_DevOps-->AWS
-    Core_DevOps-->Docker
-    Core_DevOps-->CI_CD
-```
-
 **Backend Development**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
@@ -126,15 +115,6 @@ graph LR
 
 ### 👀 Interests & Learning
 <div align="center">
-
-```mermaid
-graph LR
-    Security-->DevSecOps
-    Security-->CloudSecurity
-    
-    AI_ML-->MLOps
-    AI_ML-->CV_NLP
-```
 
 **Infrastructure & DevOps**  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
