@@ -61,6 +61,7 @@
   - MongoDB를 활용한 채팅 메시지 처리
   - 도메인 이벤트 기반 실시간 알림 시스템 구축
 - **사용 기술**: `Spring Boot` `WebSocket` `MongoDB` `Event Driven`
+- **[GitHub Repository](https://github.com/Jhsysng/MealBuddy_Backend.git)**
 
 ### 3. Pipe Workshop (2023.11 ~ 2024.01)
 > AWS 기반 DevSecOps 파이프라인
@@ -71,6 +72,7 @@
   - OpenSearch 활용 모니터링 시스템 구축
   - Terraform IaC 템플릿 작성
 - **사용 기술**: `AWS` `Terraform` `Lambda` `OpenSearch`
+- **[GitHub Repository](https://github.com/Jhsysng/pipeworkshop.git)**
 
 ## 📚 Education & Activities
 
